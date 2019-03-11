@@ -5,7 +5,7 @@
 # factors are 1 and itself
 
 
-def prime(number)
+def prime?(number)
   (2..number - 1).each do |num|
   if num == 0
     false
