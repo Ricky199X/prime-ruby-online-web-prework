@@ -11,5 +11,5 @@ def prime(number)
     false
     end
   end
-  true
+    true
 end
